@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#dbeafe"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="building" x2="0" y2="1">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#dbeafe"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="720" fill="url(#sky)"/>
+  <circle cx="1160" cy="145" r="66" fill="#fef3c7"/>
+  <path d="M0 530h1440v190H0z" fill="#bfdbd0"/>
+  <path d="m248 332 472-188 472 188v34H248z" fill="#123d72"/>
+  <path d="M312 345h816v210H312z" fill="url(#building)" stroke="#123d72" stroke-width="12"/>
+  <path d="M270 555h900v30H270z" fill="#123d72"/>
+  <path d="M610 385h220v170H610z" fill="#123d72"/>
+  <path d="M370 390h90v75h-90zm150 0h90v75h-90zm410 0h90v75h-90zm150 0h90v75h-90zM370 480h90v65h-90zm150 0h90v65h-90zm410 0h90v65h-90zm150 0h90v65h-90z" fill="#93c5fd"/>
+  <path d="M0 610c180-55 330-42 470 0s300 35 445-5 320-43 525 5v110H0z" fill="#86b99a"/>
+  <text x="720" y="665" text-anchor="middle" fill="#123d72" font-family="Arial,sans-serif" font-size="26" font-weight="700">AG AI ADMISSIONS · STUDENT PORTAL</text>
+</svg>

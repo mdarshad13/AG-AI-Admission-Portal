@@ -1,0 +1,13 @@
+{
+  "name": "ag-ai-admissions-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test:api": "node verify-endpoints.js && node verify-dashboard-endpoints.js",
+    "test:workflows": "node verify-workflows.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
